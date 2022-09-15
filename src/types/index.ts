@@ -1,6 +1,6 @@
 export type User = {
   username: string
-  id: string
+  socketId: string
   room: "blue" | "red"
 }
 
